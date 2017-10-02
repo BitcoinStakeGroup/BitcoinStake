@@ -1,0 +1,2 @@
+# bitcoinstake
+Algorithm   Scrypt Type   PoW/PoS Coin name   BitcoinStake Coin abbreviation   BCS Address letter   B RPC port   23976 P2P port   23975 Block reward   15 coins Total coin supply   21000000 coins Premine percent   70% Premine amount   14700000 coins  PoS percentage   10% per year Last PoW block   block 1000 Coinbase maturity   100 blocks Target spacing   64 seconds Target timespan   1 block Transaction confirmations   6 blocks
